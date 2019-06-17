@@ -13,7 +13,6 @@ yc=rc.*sin(theta);
 beam=atand(W/L) %beem
 num=ceil(360/(beam-beam*(2*P/100)))+1 %number of antennas
 
-%test for git
 
 %ellipse
 a=L; % horizontal radius
